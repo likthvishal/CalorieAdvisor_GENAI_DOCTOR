@@ -44,8 +44,14 @@ Upload a photo of your meal (e.g., breakfast, lunch, dinner).
 The app provides calorie and nutrient breakdown, including percentages of carbohydrates, proteins, fats, and fibers.
 Insights on whether the meal is balanced, including recommendations based on nutrient distribution.
 ## Project Structure
-**app.py:** Main application file that sets up the Streamlit UI, handles image input, and displays the nutritional analysis.
+- **app.py:** Main application file that sets up the Streamlit UI, handles image input, and displays the nutritional analysis.
 
-**requirements.txt:** Contains all necessary dependencies.
+- **requirements.txt:** Contains all necessary dependencies.
 
-**.env:** Stores API key for accessing Google Gemini Pro Vision API.
+- **.env:** Stores API key for accessing Google Gemini Pro Vision API.
+
+## Example Use Cases
+- **Healthy Meal Assessment: Use the app to evaluate if your meal is balanced.**
+- **Calorie Monitoring: Track calorie intake by uploading images of daily meals.**
+- **Nutrient Tracking: Receive detailed nutrient breakdowns to help adjust dietary choices.**
+
