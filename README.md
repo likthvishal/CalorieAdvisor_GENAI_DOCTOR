@@ -7,7 +7,7 @@ Nutritionist Generative AI application which acts as a doctor using Google Gemin
 ## Features
 - **Image-based Calorie Estimation**: Upload photos of your meals to receive an analysis of total calories and specific nutrient content.
 - **Nutritional Breakdown**: Provides a detailed nutrient composition, including carbohydrate, protein, fat, fiber, and sugar percentages.
-- **Health Recommendations**: Evaluates if the food is balanced and offers insights into nutrient distribution, highlighting any nutritional imbalances.
+- **Health Recommendations**: Evaluate if the food is balanced and offer insights into nutrient distribution, highlighting any nutritional imbalances.
 
 ## Motivation
 This app was inspired by the importance of healthy eating. Monitoring nutrient intake and calorie consumption can help in achieving a balanced diet, supporting long-term health and well-being. This app serves as a digital nutritionist, helping users make informed dietary choices.
@@ -31,13 +31,13 @@ Store the API key in a .env file in this format:
 GOOGLE_API_KEY=your_api_key_here
 
 ## Usage
-**Run the app:**
+- **Run the app:**
 
-streamlit run app.py
+   streamlit run app.py
 
-**Upload an Image:**
+- **Upload an Image:**
 
-Upload a photo of your meal (e.g., breakfast, lunch, dinner).
+   Upload a photo of your meal (e.g., breakfast, lunch, dinner).
 
 **Receive Analysis:**
 
