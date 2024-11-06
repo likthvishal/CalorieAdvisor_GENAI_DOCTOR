@@ -29,3 +29,23 @@ pip install -r requirements.txt
 Store the API key in a .env file in this format:
 
 GOOGLE_API_KEY=your_api_key_here
+
+## Usage
+**Run the app:**
+
+streamlit run app.py
+
+**Upload an Image:**
+
+Upload a photo of your meal (e.g., breakfast, lunch, dinner).
+
+**Receive Analysis:**
+
+The app provides calorie and nutrient breakdown, including percentages of carbohydrates, proteins, fats, and fibers.
+Insights on whether the meal is balanced, including recommendations based on nutrient distribution.
+## Project Structure
+**app.py:** Main application file that sets up the Streamlit UI, handles image input, and displays the nutritional analysis.
+
+**requirements.txt:** Contains all necessary dependencies.
+
+**.env:** Stores API key for accessing Google Gemini Pro Vision API.
