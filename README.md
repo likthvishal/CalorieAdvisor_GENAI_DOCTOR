@@ -26,9 +26,9 @@ pip install -r requirements.txt
 ## Set up your API Key:
 **Go to Google Maker Suite to generate an API key for Gemini Pro Vision.**
 
-Store the API key in a .env file in this format:
+- Store the API key in a .env file in this format:
 
-GOOGLE_API_KEY=your_api_key_here
+- GOOGLE_API_KEY=your_api_key_here
 
 ## Usage
 - **Run the app:**
@@ -39,7 +39,7 @@ GOOGLE_API_KEY=your_api_key_here
 
    Upload a photo of your meal (e.g., breakfast, lunch, dinner).
 
-**Receive Analysis:**
+## Receive Analysis:
 
 The app provides calorie and nutrient breakdown, including percentages of carbohydrates, proteins, fats, and fibers.
 Insights on whether the meal is balanced, including recommendations based on nutrient distribution.
