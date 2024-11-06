@@ -21,7 +21,7 @@ This app was inspired by the importance of healthy eating. Monitoring nutrient i
 ## Install dependencies:
 **Install required libraries from requirements.txt:**
 
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 ## Set up your API Key:
 **Go to Google Maker Suite to generate an API key for Gemini Pro Vision.**
