@@ -12,11 +12,6 @@ Nutritionist Generative AI application which acts as a doctor using Google Gemin
 ## Motivation
 This app was inspired by the importance of healthy eating. Monitoring nutrient intake and calorie consumption can help in achieving a balanced diet, supporting long-term health and well-being. This app serves as a digital nutritionist, helping users make informed dietary choices.
 
-## Installation and Setup
-1. **Clone the repository**:
-   ```bash
-   git clone [repo URL]
-   cd CalorieAdvisor
 
 ## Install dependencies:
 **Install required libraries from requirements.txt:**
